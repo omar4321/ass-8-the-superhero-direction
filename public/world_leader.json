@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "George Washington",
+    "age": 67,
+    "net_worth": 1340000000,
+    "location": "United States",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/396px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"
+  },
+  {
+    "id": 2,
+    "name": "John Adams",
+    "age": 90,
+    "net_worth": 170000000000,
+    "location": "United States",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg/396px-Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Thomas Jefferson",
+    "age": 83,
+    "net_worth": 156000000000,
+    "location": "United States",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg/390px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg"
+  },
+  {
+    "id": 4,
+    "name": "James Madison",
+    "age": 85,
+    "net_worth": 1170000000000,
+    "location": "United States",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/James_Madison%28cropped%29%28c%29.jpg/393px-James_Madison%28cropped%29%28c%29.jpg"
+  },
+  {
+    "id": 5,
+    "name": "James Monroe",
+    "age": 95,
+    "net_worth": 1870000000000,
+    "location": "United States",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/James_Monroe_White_House_portrait_1819.jpg/399px-James_Monroe_White_House_portrait_1819.jpg"
+  },
+  {
+    "id": 6,
+    "name": "John Quincy Adams",
+    "age": 97,
+    "net_worth": 19000000000,
+    "location": "United States",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/John_Q._Adams.jpg/366px-John_Q._Adams.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Andrew Jackson",
+    "age": 101,
+    "net_worth": 1750000000000,
+    "location": "United States",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Andrew_jackson_head.jpg/396px-Andrew_jackson_head.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Martin Van Buren",
+    "age": 77,
+    "net_worth": 9000000000,
+    "location": "United States",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Martin_Van_Buren_by_Mathew_Brady_c1855-58.jpg/382px-Martin_Van_Buren_by_Mathew_Brady_c1855-58.jpg"
+  },
+  {
+    "id": 9,
+    "name": "William Henry Harrison",
+    "age": 88,
+    "net_worth": 17300000000,
+    "location": "United States",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/William_Henry_Harrison_by_James_Reid_Lambdin%2C_1835_crop.jpg/397px-William_Henry_Harrison_by_James_Reid_Lambdin%2C_1835_crop.jpg"
+  },
+  {
+    "id": 10,
+    "name": "John Tyler",
+    "age": 78,
+    "net_worth": 16400000000,
+    "location": "United States",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/John_Tyler_%28cropped_3x4%29.png/360px-John_Tyler_%28cropped_3x4%29.png"
+  }
+]
