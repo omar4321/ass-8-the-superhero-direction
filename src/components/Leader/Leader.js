@@ -16,7 +16,7 @@ export default function Leader({
   return (
     <>
       <div key={id} className="col-md-4 mt-5">
-        <Card style={{ width: '16.8rem' }}>
+        <Card style={{ width: '15rem' }}>
           <div className="text-center py-3">
             <img
               src={img}
